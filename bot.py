@@ -11,7 +11,7 @@ intents.members = True
 bot = commands.Bot(command_prefix="!", intents=intents)
 
 # Configuration - replace these with your actual values
-BOT_TOKEN = "MTM4MzE2MjY2NjAxMjUxMjMwNg.GDYV_b.aYoi2CPVYoZm78WwWV10US-vmXx_7PwC7qxjIE"
+BOT_TOKEN = "MTM4MzE2MjY2NjAxMjUxMjMwNg.Gkfs_K.kHhaOsr-ZN2W-j1hjI9qgersRSRLvEu1SphIyI"
 TICKET_CHANNEL_ID = 1383174379386572903
 STAFF_ROLE_ID = 1382414903712808960
 TICKET_CATEGORY_ID = 1382417269514305808
